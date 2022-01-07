@@ -1,4 +1,4 @@
-# DSA_ALGO_GIGS
+# DSA ALGO GIGS
 DSA Algorithm for Node and Python
 Introducing Asymptotic Measures:
 
