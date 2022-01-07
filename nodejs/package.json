@@ -1,0 +1,19 @@
+{
+  "name": "DSA-Algo-Daily-Practice",
+  "version": "1.0.0",
+  "description": "Daily code challagnes ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "DSA",
+    "AlGO",
+    "Practice"
+  ],
+  "author": "Nilaratan Das",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
